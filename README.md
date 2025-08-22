@@ -98,14 +98,6 @@ Direct market access platform for farmers
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **1st Place** in University Hackathon 2023 - AI/ML Category
-- 📜 **AWS Cloud Practitioner** Certified
-- 🎖️ **3+ Certifications** in Data Science and Machine Learning
-- ✍️ **Technical Blog Writer** on Medium - AI/ML topics
-
----
 
 ## 📈 GitHub Activity
 

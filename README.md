@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Sakshi Bari</h1>
-<h3 align="center">Data Science | Full-Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Data Science | AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshi-bari">
@@ -26,7 +26,7 @@
 - 💡 Skilled in **Python, Core Java, Flask, REST API, SQL, MongoDB, HTML, CSS**
 - 🤖 Experienced in building **LLM-powered applications, Computer Vision models, and Predictive Analytics solutions**
 - 🌱 Actively learning **Cloud (AWS) & Advanced AI**
-- 🎯 Career Goal: Leverage AI + Full-Stack expertise to solve real-world problems
+- 🎯 Career Goal: Leverage AI 
 - ⚡ Fun fact: I love solving complex problems and turning ideas into reality through code!
 
 ---
@@ -36,7 +36,7 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### Web Technologies
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)

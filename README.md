@@ -1,30 +1,37 @@
-import os
-import sys
+# 👩‍💻 Hi, I'm Sakshi Bari!  
 
-# Load API key from environment
-MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
+🚀 Passionate **Data Science & Full-Stack Developer** | AI | Cloud Enthusiast  
 
-if not MISTRAL_API_KEY:
-    skills = [
-        "Python 🐍", "Core Java ☕", "Flask 🌐", "REST API ⚡",
-        "HTML/CSS 🎨", "SQL 🗄️", "MongoDB 🍃", "LLMs 🤖"
-    ]
+---
 
-    error_message = f"""
-    ❌ ERROR: MISTRAL_API_KEY not found!  
+### 🔧 Tech Stack & Skills:
+- 🐍 **Languages:** Python, Core Java, SQL  
+- 🌐 **Web & Backend:** Flask, REST API, HTML, CSS, JavaScript  
+- 📊 **Databases:** MySQL, MongoDB  
+- 🤖 **AI/ML & LLMs:** Deep Learning, NLP, RAG, Computer Vision  
+- ☁️ **Cloud & Tools:** AWS, Git, GitHub, Postman  
 
-    👉 Please set it in your environment before running the app.
+---
 
-    Example:
-        On Windows PowerShell:
-            $env:MISTRAL_API_KEY="your_api_key_here"
-        On Linux/Mac:
-            export MISTRAL_API_KEY="your_api_key_here"
+### 📌 Featured Projects:
+🌱 **[PlantCare Pro](#)** – Banana Leaf Disease Detection (CNN + Flask + HTML UI)  
+🩺 **[Medical RAG Chatbot](#)** – AI-powered chatbot with LLM + Pinecone  
+🏏 **[IPL Score Predictor](#)** – ML regression web app with Flask  
+🚜 **[FarmDirect](#)** – Direct market access app for farmers  
 
-    💡 Developer Skills:
-        {", ".join(skills)}
+---
 
-    🚀 Pro Tip: Store your keys securely using a .env file with `python-dotenv`.
-    """
+### 📊 GitHub Stats:
+![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi-bari&show_icons=true&theme=radical)
 
-    sys.exit(error_message)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-bari&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with Me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/sakshi-bari)  
+- 🐦 Twitter: [@sakshi_bari](#)  
+- ✉️ Email: yourmail@example.com  
+
+---
+⭐️ _“Code. Learn. Innovate.”_

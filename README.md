@@ -45,20 +45,21 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-bari&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-bari&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-bari&layout=compact&theme=radical" height="150"/>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-bari&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-bari&theme=radical" height="150"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-bari&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
+
 
 ---
 
